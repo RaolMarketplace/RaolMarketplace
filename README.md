@@ -1,52 +1,25 @@
-name: 📜 Repository licenses
-category: github
-description: |
-  This plugin display repository license informations like permissions, limitations and conditions along with additional stats about dependencies.
-notes: |
-  > ⚠️ This is **NOT** legal advice, use at your own risk
+<h1 align="center">Hi 👋, I'm Raol</h1>
+<h3 align="center">たまたま通りかかった人です</h3>
 
-  > 💣 This plugin **SHOULD NOT** be enabled on web instances, since it allows raw command injection.
-  > This could result in compromised server!
-examples:
-  +permissions, limitations and conditions: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.svg
-  +licenses overview: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.ratio.svg
-index: 6
-supports:
-  - repository
-scopes:
-  - public_access
-inputs:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raolmarketplace&label=Profile%20views&color=0e75b6&style=plastic" alt="raolmarketplace" /> </p>
 
-  plugin_licenses:
-    description: |
-      Enable licenses plugin
-    type: boolean
-    default: no
-    extras:
-      - metrics.cpu.overuse
-      - metrics.run.tempdir
-      - metrics.run.git
-      - metrics.run.licensed
-      - metrics.run.user.cmd
+- 🌱 I’m currently learning **Frameworks**
 
-  plugin_licenses_setup:
-    description: |
-      Setup command
+- 👨‍💻 All of my projects are available at [https://raol.ralvinstore.my.id/](https://raol.ralvinstore.my.id/)
 
-      > ℹ️ Depending on the project, this may not be required.
-      > The example command is intended for NodeJs projects that use `npm` to install their dependencies.
-    type: string
-    default: ""
-    example: "bash -c '[[ -f package.json ]] && npm ci || true'"
+- 💬 Ask me about **react, vuejs and nodejs**
 
-  plugin_licenses_ratio:
-    description: |
-      Used licenses ratio
-    type: boolean
-    default: no
+- 📫 How to reach me **raolmarketplace@gmail.com**
 
-  plugin_licenses_legal:
-    description: |
-      Permissions, limitations and conditions about used licenses
-    type: boolean
-    default: yes
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raolmarketplace&show_icons=true&theme=dracula&locale=en&layout=compact" alt="raolmarketplace" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raolmarketplace&show_icons=true&theme=dracula&locale=en" alt="raolmarketplace" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raolmarketplace&theme=dark" alt="raolmarketplace" /></p>
